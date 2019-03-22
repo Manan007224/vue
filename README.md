@@ -260,6 +260,18 @@ Vue.js supports all browsers that are [ES5-compliant](http://kangax.github.io/co
 
 To check out [live examples](https://vuejs.org/v2/examples/) and docs, visit [vuejs.org](https://vuejs.org).
 
+## Compiling
+
+`npm run dev`
+
+## Testing
+
+`npm run test`
+
+## Publishing new changes
+
+`npm run commit`
+
 ## Questions
 
 For questions and support please use the [the official forum](http://forum.vuejs.org) or [community chat](https://chat.vuejs.org/). The issue list of this repo is **exclusively** for bug reports and feature requests.
